@@ -1,0 +1,14 @@
+
+[twitterdetails]
+
+api_key = B8THVc5cG9XT352xbaDYG1Zbn
+
+api_secrete = xEF30YWlmEE2neqJh8JM0Tfpio9UGhbSuO4jpMymnC7CJDlVwk
+
+access_token = 2337780624-cmH5WjCtzp9sUhaXE2Vl1xkwPITUT0FMWEARHvp
+
+access_secrete = md2MwgY6affvJEbeMqQsMsWrAzIoDyocyLg5cicqjtFKn
+
+[mongodetails]
+
+connection = mongodb+srv://techies:1234@demo.t4f0w.mongodb.net/test
